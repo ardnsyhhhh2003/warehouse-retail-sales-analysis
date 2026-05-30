@@ -3,6 +3,10 @@
 ## Overview
 Analisis data penjualan warehouse dan retail periode 2017–2020 menggunakan Python.
 
+## Dataset
+Dataset diambil dari Kaggle:
+https://www.kaggle.com/datasets/lalit7881/warehouse-and-retail-sales/data
+
 ## Tools
 - Python (Pandas, Matplotlib, Seaborn)
 - Google Colab
