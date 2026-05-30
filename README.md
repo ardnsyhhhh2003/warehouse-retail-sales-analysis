@@ -27,5 +27,10 @@ https://www.kaggle.com/datasets/lalit7881/warehouse-and-retail-sales/data
 | chart4_retail_vs_warehouse | Perbandingan retail vs warehouse per tahun |
 
 ## File
-- `warehouse_analysis.ipynb` — Notebook analisis lengkap
-- `Warehouse_and_Retail_Sales.csv` — Dataset
+- `warehouse_analysis.ipynb`
+
+## Preview
+<img width="1800" height="900" alt="chart1_kategori" src="https://github.com/user-attachments/assets/7fd54ae6-9299-4402-a0f1-61b9184b7333" />
+<img width="1800" height="900" alt="chart4_retail_vs_warehouse" src="https://github.com/user-attachments/assets/365d7a4e-3b83-48e8-9fc6-bb8735183159" />
+<img width="1800" height="900" alt="chart3_top_supplier" src="https://github.com/user-attachments/assets/68fea466-e92e-44bc-93a3-3c88992c8269" />
+<img width="1800" height="900" alt="chart2_tren_tahun" src="https://github.com/user-attachments/assets/aaec0cfb-e78d-4d59-b343-bebb6848c10f" />
